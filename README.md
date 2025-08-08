@@ -48,5 +48,6 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/PitengSitanggang/Peminjaman-Ruangan-Fasilitas.git
+   cd Peminjaman-Ruangan-Fasilitas
+
