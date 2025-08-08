@@ -51,3 +51,8 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
    git clone https://github.com/PitengSitanggang/Peminjaman-Ruangan-Fasilitas.git
    cd Peminjaman-Ruangan-Fasilitas
 
+---
+
+## ERD Flowchart Aplikasi
+
+![ERD Peminjaman-Ruangan-Fasilitas](FlowChart_Peminjaman.drawio.svg)
