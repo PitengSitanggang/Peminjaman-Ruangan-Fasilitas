@@ -59,6 +59,8 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 ## Basis Data
 
+![ERD Peminjaman-Ruangan-Fasilitas](peminjaman.svg)
+
 
 
 
