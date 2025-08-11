@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>Peminjaman Ruangan</h1>
-</p>
+<h1 align="center"> Peminjaman Ruangan </h1>
+
 
 ---
 
@@ -64,6 +63,7 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 ## Basis Data
 
 ![ERD Peminjaman-Ruangan-Fasilitas](peminjaman.svg)
+
 
 
 
