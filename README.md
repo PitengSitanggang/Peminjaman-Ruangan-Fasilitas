@@ -1,6 +1,8 @@
 <p align="center">
-  <b><h1>Peminjaman Ruangan</h1></b>
+  <b>Peminjaman Ruangan</b>
 </p>
+
+---
 
 # 📚 Aplikasi Peminjaman Ruangan & Fasilitas Sekolah
 
@@ -62,6 +64,7 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 ## Basis Data
 
 ![ERD Peminjaman-Ruangan-Fasilitas](peminjaman.svg)
+
 
 
 
