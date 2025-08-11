@@ -1,5 +1,6 @@
-﻿# Peminjaman-Ruangan-Fasilitas
-
+<p align="center">
+  <b>#Peminjaman Ruangan</b>
+</p>
 # 📚 Aplikasi Peminjaman Ruangan & Fasilitas Sekolah
 
 Aplikasi ini digunakan untuk mempermudah proses peminjaman ruangan dan fasilitas sekolah secara digital.  
@@ -60,6 +61,7 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 ## Basis Data
 
 ![ERD Peminjaman-Ruangan-Fasilitas](peminjaman.svg)
+
 
 
 
