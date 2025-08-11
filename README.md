@@ -60,10 +60,11 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 ![ERD Peminjaman-Ruangan-Fasilitas](FlowChart_Peminjaman.drawio.svg)
 
-<h1 align="center"> Basis Data </h1>
+<h1 align="center"> Basis Data Aplikasi </h1>
 
 
 ![ERD Peminjaman-Ruangan-Fasilitas](peminjaman.svg)
+
 
 
 
