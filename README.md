@@ -62,8 +62,15 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 <h1 align="center"> Basis Data Aplikasi </h1>
 
-
 ![ERD Peminjaman-Ruangan-Fasilitas](peminjaman.svg)
+
+<h1 align="center"> Diagram Activity </h1>
+
+![ERD Peminjaman-Ruangan-Fasilitas](ActivityPeminjaman.svg)
+
+<h1 align="center"> Diagram Activity </h1>
+
+![ERD Peminjaman-Ruangan-Fasilitas](UseCasePeminjaman.svg)
 
 
 
