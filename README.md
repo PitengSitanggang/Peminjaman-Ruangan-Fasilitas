@@ -68,9 +68,10 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 ![ERD Peminjaman-Ruangan-Fasilitas](ActivityPeminjaman.svg)
 
-<h1 align="center"> Diagram Activity </h1>
+<h1 align="center"> Use Case Diagram </h1>
 
-![ERD Peminjaman-Ruangan-Fasilitas](UseCasePeminjaman.svg)
+![ERD Peminjaman-Ruangan-Fasilitas](uuse%20case%20peminjaman.drawio.svg)
+
 
 
 
