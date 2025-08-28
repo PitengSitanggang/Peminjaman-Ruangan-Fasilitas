@@ -76,8 +76,9 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 <h1 align="center"> Use Case Diagram </h1>
 
 <p align="center">
-  <img src="use%20case%20peminjaman.drawio.svg" width="800">
+  <img src="use%20case%20peminjaman.drawio.svg" width="700">
 </p>
+
 
 
 
