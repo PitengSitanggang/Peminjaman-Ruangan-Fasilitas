@@ -70,9 +70,9 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 <h1 align="center"> Use Case Diagram </h1>
 
-![ERD Peminjaman-Ruangan-Fasilitas](use%20case%20peminjaman.drawio.svg)
-
-
+<p align="center">
+  <img src="huse%20case%20peminjaman.drawio.svg" width="500">
+</p>
 
 
 
