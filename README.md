@@ -57,22 +57,28 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 <h1 align="center"> ERD Flowchart Aplikasi</h1>
 
-
-![ERD Peminjaman-Ruangan-Fasilitas](FlowChart_Peminjaman.drawio.svg)
+<p align="center">
+  <img src="FlowChart_Peminjaman.drawio.svg" width="500">
+</p>
 
 <h1 align="center"> Basis Data Aplikasi </h1>
 
-![ERD Peminjaman-Ruangan-Fasilitas](peminjaman.svg)
+<p align="center">
+  <img src="peminjaman.svg" width="500">
+</p>
 
 <h1 align="center"> Diagram Activity </h1>
 
-![ERD Peminjaman-Ruangan-Fasilitas](ActivityPeminjaman.svg)
+<p align="center">
+  <img src="ActivityPeminjaman.svg" width="500">
+</p>
 
 <h1 align="center"> Use Case Diagram </h1>
 
 <p align="center">
   <img src="use%20case%20peminjaman.drawio.svg" width="500">
 </p>
+
 
 
 
