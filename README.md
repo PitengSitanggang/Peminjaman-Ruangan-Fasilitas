@@ -2,12 +2,12 @@
 
 
 ---
-<h1 align="center">📚 Aplikasi Peminjaman Ruangan & Fasilitas Sekolah</h1>
+<h1 align="center"> Aplikasi Peminjaman Ruangan & Fasilitas Sekolah</h1>
 
-Aplikasi ini digunakan untuk mempermudah proses peminjaman ruangan dan fasilitas sekolah secara digital.  
+Aplikasi ini digunakan untuk mempermudah proses peminjaman ruangan dan fasilitas sekolah budiluhur secara digital.  
 Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pencatatan data yang rapi.
 
-## 🎯 Fitur Utama
+## Fitur Utama
 - **Manajemen Peminjaman**: Guru dan siswa dapat mengajukan peminjaman ruangan/fasilitas.
 - **Persetujuan Admin**: Admin dapat memverifikasi dan menyetujui atau menolak permintaan peminjaman.
 - **Pengaturan Kapasitas Ruangan**: Admin dapat mengatur kapasitas dan ketersediaan setiap ruangan.
@@ -16,7 +16,7 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 ---
 
-## 👥 Jenis Pengguna & Hak Akses
+## Jenis Pengguna & Hak Akses
 
 ### 1. **Admin**
 - Mengelola data ruangan dan fasilitas sekolah.
@@ -38,15 +38,14 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 ---
 
-## 🛠 Teknologi yang Digunakan
-- **Frontend**: HTML, CSS, JavaScript (Bootstrap / TailwindCSS)
+## Teknologi yang Digunakan
+- **Frontend**: HTML, CSS, JavaScript (TailwindCSS)
 - **Backend**: PHP / Laravel *(atau sesuai implementasi)*
-- **Database**: MySQL / MariaDB
-- **Lainnya**: AJAX, jQuery *(opsional)*
+- **Database**: MySQL
 
 ---
 
-## 📦 Instalasi
+## Instalasi
 
 1. **Clone repository**
    ```bash
@@ -78,6 +77,7 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 <p align="center">
   <img src="use%20case%20peminjaman.drawio.svg" width="600">
 </p>
+
 
 
 
