@@ -80,6 +80,11 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 
 <h1 align="center"> Tampilan aplikasi </h1>
-<p align="center">
-  <img src="use%20case%20peminjaman.drawio.svg" width="600">
-</p>
+
+
+| Start Page | Start 1 | Start 2 | Component |
+|------------|-----------------|----------------|-----------------|
+| ![Start Page](Get%20Started.png) | ![Start 1](GetStarted_1.png) | ![Start 2](GetStarted_3.png) | ![Component](Component%204.png) |
+
+
+
