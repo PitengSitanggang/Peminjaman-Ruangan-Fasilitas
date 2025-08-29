@@ -80,3 +80,6 @@ Dibuat untuk mengurangi proses manual, meningkatkan efisiensi, dan memastikan pe
 
 
 <h1 align="center"> Tampilan aplikasi </h1>
+<p align="center">
+  <img src="use%20case%20peminjaman.drawio.svg" width="600">
+</p>
